@@ -26,4 +26,4 @@ A lot of common hashes including
 4.  Complete
 
 # Regards
-I hold no responsibility for your usage of this program. I designed this for pentesting from a white hat perspective
+I take no legal responsibility for any negative actions committed with my software. This was made for ethical purposes only <3.
